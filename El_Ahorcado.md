@@ -1,6 +1,6 @@
 # Juego del Ahorcado en Python
 
-![Imagen del Ahorcado](El_ahorcado.jpeg)
+![Imagen del Ahorcado](Juego el ahorcado\El_ahorcado.jpeg)
 
 =====================================
 
