@@ -190,7 +190,7 @@ En esta función se gestiona el juego en sí. El jugador selecciona letras para 
         # Ordenar puntajes de mayor a menor
         puntajes_ordenados = sorted(puntajes, key=lambda x: x["puntaje"], reverse=True)
         
-        # Guardar solo los 5 mejores puntajes
+        # Guardar solo los 15 mejores puntajes
         guardar_puntajes("Juego el ahorcado\\scores.json", puntajes_ordenados[:15])
         
         print("¡Puntaje guardado!")
