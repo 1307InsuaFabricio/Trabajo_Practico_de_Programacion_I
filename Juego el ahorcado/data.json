@@ -1,0 +1,102 @@
+{
+    "ahorcado": [
+        {"id": 1,
+        "ES": "elefante",
+        "EN": "elephant"},
+
+        {"id": 2,
+        "ES": "departamento",
+        "EN": "department"},
+
+        {"id": 3,
+        "ES": "medicina",
+        "EN": "medicine"},
+
+        {"id": 4,
+        "ES": "ingenieria",
+        "EN": "engineering"},
+
+        {"id": 5,
+        "ES": "computadora",
+        "EN": "computer"},
+
+        {"id": 6,
+        "ES": "dispositivo",
+        "EN": "device"},
+
+        {"id": 7,
+        "ES": "software",
+        "EN": "software"},
+
+        {"id": 8,
+        "ES": "hardware",
+        "EN": "hardware"},
+
+        {"id": 9,
+        "ES": "idioma",
+        "EN": "language"},
+
+        {"id": 10,
+        "ES": "ciudadano",
+        "EN": "citizen"},
+
+        {"id": 11,
+        "ES": "universidad",
+        "EN": "university"},
+        {"id": 12,
+        "ES": "biblioteca",
+        "EN": "library"},
+
+        {"id": 13,
+        "ES": "diplomacia",
+        "EN": "diplomacy"},
+
+        {"id": 14,
+        "ES": "astronomia",
+        "EN": "astronomy"},
+
+        {"id": 15,
+        "ES": "filosofia",
+        "EN": "philosophy"},
+
+        {"id": 16,
+        "ES": "tecnologia",
+        "EN": "technology"},
+
+        {"id": 17
+        ,"ES": "programacion",
+        "EN": "programming"},
+        
+        {"id": 18,
+        "ES": "matematicas",
+        "EN": "mathematics"},
+
+        {"id": 19,
+        "ES": "ciencia",
+        "EN": "science"},
+
+        {"id": 20
+        ,"ES": "historia",
+        "EN": "history"},
+
+        {"id": 21,
+        "ES": "geografia",
+        "EN": "geography"},
+
+        {"id": 22,
+        "ES": "electricidad",
+        "EN": "electricity"},
+
+        {"id": 23,
+        "ES": "quimica",
+        "EN": "chemistry"},
+
+        {"id": 24,
+        "ES": "biologia",
+        "EN": "biology"},
+
+        {"id": 25,
+        "ES": "ingeniero",
+        "EN": "engineer"}
+    ]
+}

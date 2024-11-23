@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "fabriu",
+        "puntaje": 22,
+        "palabra": "computadora"
+    },
+    {
+        "nombre": "tizi",
+        "puntaje": 22,
+        "palabra": "universidad"
+    },
+    {
+        "nombre": "lucas",
+        "puntaje": 18,
+        "palabra": "ciudadano"
+    },
+    {
+        "nombre": "pepe",
+        "puntaje": 16,
+        "palabra": "elefante"
+    },
+    {
+        "nombre": "nico",
+        "puntaje": 16,
+        "palabra": "biologia"
+    },
+    {
+        "nombre": "r",
+        "puntaje": 4,
+        "palabra": "departamento"
+    },
+    {
+        "nombre": "clear",
+        "puntaje": 1,
+        "palabra": "medicina"
+    }
+]
